@@ -39,5 +39,5 @@
 <img align="right" height="150" src="https://giphy.com/gifs/capcom-mega-man-x-megamanx-jPHUl95YP4sFl24O1z"  />
 
 <p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+ <img width="1000" src="github-snake.svg" alt="snake"/>
 </p>
