@@ -36,8 +36,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Thienhello777&show_icons=true&locale=en" alt="Thienhello777" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Thienhello777&" alt="Thienhello777" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thienhello777&show_icons=true&locale=en&layout=compact" alt="Thienhello777" /></p>
-<img align="right" height="150" src="https://giphy.com/gifs/capcom-mega-man-x-megamanx-jPHUl95YP4sFl24O1z"  />
-
 <p align="center">
  <img width="1000" src="github-snake.svg" alt="snake"/>
 </p>
