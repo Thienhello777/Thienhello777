@@ -17,10 +17,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Thienhello777&show_icons=true&locale=en" alt="Thienhello777" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Thienhello777&" alt="Thienhello777" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thienhello777&show_icons=true&locale=en&layout=compact" alt="Thienhello777" /></p>
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
