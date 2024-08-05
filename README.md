@@ -12,10 +12,8 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="42" height="42" /></a></p>
----
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/www.linkedin.com/in/albert-tran-3a810a248" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=#0a77b6" alt="linkedin" /></a></p>
----
 <table border="1" style="border-collapse: collapse; width: 100%;">
     <h3 align="left">My Open Source Projects</h3>
     <tr>
@@ -31,7 +29,6 @@
         <td><a href="https://github.com/Thienhello777/Small-Project-Data-Analysis.git">https://github.com/Thienhello777/Small-Project-Data-Analysis.git</a></td>
     </tr>
 </table>
----
 <!-- HCM city's weather table -->
 <h2 align="center"> 🇻🇳 Hồ Chí Minh City's Weather ⛅ </h2>
 <table align="center" style="width:50%">
@@ -51,9 +48,12 @@
         <td><b>[Humidity here]%</b></td>
     </tr>
 </table>
----
-#
-### 📊 Stats
+<details>
+  <summary>Nhấn để xem nội dung</summary>
+  <div>
+    Nội dung bạn muốn ẩn/hiện ở đây
+  </div>
+</details>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Thienhello777&show_icons=true&locale=en" alt="Thienhello777" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Thienhello777&" alt="Thienhello777" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thienhello777&show_icons=true&locale=en&layout=compact" alt="Thienhello777" /></p>
