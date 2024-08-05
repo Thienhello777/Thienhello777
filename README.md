@@ -1,4 +1,5 @@
 <h1>🕵🏼‍♂️ Albert Tran</h1>
+<span style="border: 1px solid gray; padding: 5px; border-radius: 5px;">Data Scientist & Quant Trader.</span>
 <h1>Bonjour 👋, It's me again, Albert!</h1>
 <p>Data Scientist & Quant Trader</p>
 <h2>🚀 Languages and Tools I Use</h2>
