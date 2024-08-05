@@ -1,4 +1,4 @@
-#🕵🏼‍♂️ Albert Tran
+<h1>🕵🏼‍♂️ Albert Tran</h1>
 <h1>Bonjour 👋, It's me again, Albert!</h1>
 <p>Data Scientist & Quant Trader</p>
 <h2>🚀 Languages and Tools I Use</h2>
