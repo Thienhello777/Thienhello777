@@ -14,6 +14,30 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="42" height="42" /></a></p>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/www.linkedin.com/in/albert-tran-3a810a248" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=#0a77b6" alt="linkedin" /></a></p>
+ <h4 align="left">My Open Source Projects</h4>
+    <table align="center">
+        <tr>
+            <td><a href="https://github.com/Thienhello777/Three-Projects-With-Advanced-Python.git - Automatidata-Tiktok-Waze</td>
+            <td><a href="https://github.com/Thienhello777/Small-Project-Data-Analysis.git - Netflix - NYC school </td>
+        </tr>
+        <tr>
+            <td><a href=" ,</td>
+            <td><a href="</td>
+        </tr>
+        <tr>
+            <td><a href="</td>
+            <td><a href="</td>
+        </tr>
+        <tr>
+            <td><a href="</td>
+            <td><a href="</td>
+        </tr>
+        <tr>
+            <td><a href="</td>
+            <td><a href="</td>
+        </tr>
+    </table>
+</div>
 <!-- HCM city's weather table -->
 <h2 align="center"> 🇻🇳 Hồ Chí Minh City's Weather ⛅ </h2>
 <table align="center" style="width:50%">
