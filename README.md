@@ -1,6 +1,6 @@
 <h1>🕵🏼‍♂️ Albert Tran</h1>
 <div style="border: 2px solid #007bff; padding: 5px; border-radius: 5px; background-color: #f8f9fa;"> 
-  <p><strong><em>Digital Craftsman (Developer/Filmmaker/Creator)</em></strong></p>
+  <p><strong><em>Data Scientist & Quant Trader</em></strong></p>
 </div>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
