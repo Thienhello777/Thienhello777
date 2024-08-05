@@ -1,11 +1,24 @@
 <h1>🕵🏼‍♂️ Albert Tran</h1>
-<span style="border: 1px solid gray; padding: 5px; border-radius: 5px;">Data Scientist & Quant Trader.</span>
-<p><strong><em>Digital Craftsman (Developer/Filmmaker/Creator)</em></strong></p>
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
-<strong>Digital Craftsman (Developer/Filmmaker/Creator)</strong>
-<div style="border: 2px solid #007bff; padding: 5px; border-radius: 5px;">
-  <p><strong><em>Digital Craftsman (Developer/Filmmaker/Creator)</em></strong></p>
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data Scientist</title>
+    <style>
+        .highlight {
+            color: white;
+            border: 2px solid gray;
+            padding: 5px;
+            display: inline-block;
+        }
+    </style>
+</head>
+<body>
+    <p class="highlight">Data scientist</p>
+</body>
+</html>
+
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
