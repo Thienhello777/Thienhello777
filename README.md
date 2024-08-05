@@ -15,7 +15,7 @@
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/www.linkedin.com/in/albert-tran-3a810a248" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=#0a77b6" alt="linkedin" /></a></p>
 <table border="1" style="border-collapse: collapse; width: 100%;">
-    <caption>My Open Source Projects</caption>
+    <h3 align="left">My Open Source Projects</h3>
     <tr>
         <th>Tên dự án</th>
         <th>Liên kết</th>
