@@ -49,9 +49,9 @@
     </tr>
 </table>
 <details>
-  <summary>Nhấn để xem nội dung</summary>
+  <summary> </summary>
   <div>
-    Nội dung bạn muốn ẩn/hiện ở đây
+   📊 Stats
   </div>
 </details>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Thienhello777&show_icons=true&locale=en" alt="Thienhello777" /></p>
