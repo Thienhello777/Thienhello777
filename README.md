@@ -19,6 +19,8 @@
         <tr>
             <td><a href="https://github.com/Thienhello777/Three-Projects-With-Advanced-Python.git - Automatidata-Tiktok-Waze</td>
             <td><a href="https://github.com/Thienhello777/Small-Project-Data-Analysis.git - Netflix - NYC school </td>
+         </tr>
+        <tr>    
     </table>
 </div>
 <!-- HCM city's weather table -->
