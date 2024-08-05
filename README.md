@@ -1,5 +1,6 @@
 <h1>🕵🏼‍♂️ Albert Tran</h1>
 <span style="border: 1px solid gray; padding: 5px; border-radius: 5px;">Data Scientist & Quant Trader.</span>
+<p><strong><em>Digital Craftsman (Developer/Filmmaker/Creator)</em></strong></p>
 **`Digital Craftsman (Developer/Filmmaker/Creator)`**
 <strong>Digital Craftsman (Developer/Filmmaker/Creator)</strong>
 <h2>🚀 Languages and Tools I Use</h2>
