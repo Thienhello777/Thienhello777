@@ -1,5 +1,6 @@
 <h1>🕵🏼‍♂️ Albert Tran</h1>
 <span style="border: 1px solid gray; padding: 5px; border-radius: 5px;">Data Scientist & Quant Trader.</span>
+<p>I'm an independent developer, filmmaker, and creator on a mission to shape my corner of the digital world. <span style="border: 1px solid gray; padding: 5px; border-radius: 5px;">I'm passionate about the entire creative process, from initial ideas to final execution.</span></p>
 <h1>Bonjour 👋, It's me again, Albert!</h1>
 <p>Data Scientist & Quant Trader</p>
 <h2>🚀 Languages and Tools I Use</h2>
