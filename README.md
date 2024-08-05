@@ -1,5 +1,5 @@
 <h1>🕵🏼‍♂️ Albert Tran</h1>
-<div style="border: 2px solid #007bff; padding: 5px; border-radius: 5px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);">
+<div style="border: 2px solid #007bff; padding: 5px; border-radius: 5px; background-color: #f8f9fa;"> 
   <p><strong><em>Digital Craftsman (Developer/Filmmaker/Creator)</em></strong></p>
 </div>
 <h2>🚀 Languages and Tools I Use</h2>
