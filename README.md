@@ -1,4 +1,4 @@
-<h1>🕵🏼‍♂️ Albert Tran</h1>
+<h1>🕵🏼‍♂️ William Tran</h1>
 <div style="border: 2px solid #007bff; padding: 5px; border-radius: 5px; background-color: #f8f9fa;"> 
   <p><strong><em>Data Scientist & Quant Trader</em></strong></p>
 </div>
