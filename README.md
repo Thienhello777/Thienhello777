@@ -30,6 +30,9 @@
     <tr>
         <td>Small Project Data Analysis (Netflix, NYC school)</td>
         <td><a href="https://github.com/Thienhello777/Small-Project-Data-Analysis.git">https://github.com/Thienhello777/Small-Project-Data-Analysis.git</a></td>
+    <tr>
+        <td>Data Science with SpaceX</td>
+        <td><a href="https://github.com/Thienhello777/Data-Science-SpaceX-.git">https://github.com/Thienhello777/Data-Science-SpaceX-.git</a></td> 
     </tr>
 </table>
 <!-- HCM city's weather table -->
